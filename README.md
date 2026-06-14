@@ -16,7 +16,7 @@ computational linguistics | ML & neural machine translation </strong>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ksenia-artamonova) [![Email](https://img.shields.io/badge/Email-FFB6C1?logo=gmail&logoColor=white)](mailto:art-ksenya@inbox.ru) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD1DC?logo=huggingface&logoColor=FF69B4)](https://huggingface.co/blankqspace)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ksenia-artamonova) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD1DC?logo=huggingface&logoColor=FF69B4)](https://huggingface.co/blankqspace)
 
 ────୨ৎ────
 
