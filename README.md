@@ -9,8 +9,16 @@
   
 ## ⋆˙⟡ Ksenia Artamonova ⟡˙⋆
 
-  <strong style="color: #FFC0CB;"> Computational Linguistics | NLP & Machine Translation </strong>
+  computational linguistics | ML & neural machine translation </strong>
   
+</div>
+
+<div align="center">
+
+────୨ৎ────
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ksenia-artamonova) [![Email](https://img.shields.io/badge/Email-FFB6C1?logo=gmail&logoColor=white)](mailto:art-ksenya@inbox.ru) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD1DC?logo=huggingface&logoColor=FF69B4)](https://huggingface.co/blankqspace)
+
 </div>
 
 
@@ -71,11 +79,3 @@ My main professional interest lies at the intersection of **machine learning** a
   <img src="https://img.shields.io/badge/FFmpeg-F4C2C2?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
 </p>
 
-
-<div align="center">
-
-────୨ৎ────
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ksenia-artamonova) [![Email](https://img.shields.io/badge/Email-FFB6C1?logo=gmail&logoColor=white)](mailto:art-ksenya@inbox.ru) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD1DC?logo=huggingface&logoColor=FF69B4)](https://huggingface.co/blankqspace)
-
-</div>
