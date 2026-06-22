@@ -50,7 +50,7 @@ My main professional interest lies at the intersection of **machine learning** a
 
 📖 reading manhwas & manga
 
-🎧 listening to pop Music
+🎧 listening to pop music
 
 💗 collecting CDs & merch
 
