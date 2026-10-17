@@ -48,11 +48,9 @@ My main professional interest lies at the intersection of **machine learning** a
 
 💌 learning languages:  currently into `Chinese`  and  `Korean` 
 
-📖 reading manhwas & manga
+📖 reading and music
 
-🎧 listening to pop music
-
-💗 collecting CDs & merch
+💗 machine translation 
 
 </div>
 
